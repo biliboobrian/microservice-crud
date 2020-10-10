@@ -11,7 +11,7 @@
     }
   ],
   "require": {
-    "laravel/lumen-framework": "^5.3 || 6.* || 7.*",
+    "laravel/lumen-framework": "^5.3 || 6.* || 7.* || 8.*",
     "biliboobrian/microservice-core": "~1.0",
     "biliboobrian/microservice-model-utils": "~1.0"
   },
